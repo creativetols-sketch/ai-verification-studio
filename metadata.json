@@ -1,0 +1,10 @@
+{
+  "name": "VeriFace & Voice Studio",
+  "description": "Role-based AI verification pose, regional voice clone, and lip-sync talking video studio.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
